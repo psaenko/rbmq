@@ -13,6 +13,8 @@ lerna-debug.log*
 
 # OS
 .DS_Store
+.fleet
+.idea
 
 # Local env files
 .env
@@ -24,7 +26,6 @@ lerna-debug.log*
 /.nyc_output
 
 # IDEs and editors
-/.idea
 .project
 .classpath
 .c9/
