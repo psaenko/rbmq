@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fb34967-168e-44a4-8273-c103b0e147e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/app.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/assets/baner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/assets/car1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/assets/car2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/assets/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/assets/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/assets/icons/facebook_dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/assets/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/assets/icons/instagram_dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/assets/logoDark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/Baner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/CEOCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/CategorySwitcher.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/LocLink.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/MainButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/NewsCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/Search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/SearchInput.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/SelectInput.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/SelectWithSearch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/Swiper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/components/TextInput.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/i18n.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/layouts/MainLayout.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/locales/en-US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/locales/ru-RU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/locales/uk-UA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/nuxt.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/pages/news/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/pages/test/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/icons/icon-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/icons/icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/icons/icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/icons/icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/icons/icon-384x384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/icons/icon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/icons/icon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/icons/icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/public/icons/icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/server/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/stores/authStore.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cars-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cemetery/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cemetery/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directus/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directus/directus" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../directusSync/аа.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e_books_backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../msg-deliverer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../msg-deliverer/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../msg-deliverer/rbmq/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/.idea/my-book-cdn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/src/file/express-file.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/src/file/file-upload.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/src/file/file.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/src/file/multer.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/src/jwt/jwt-payload.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/src/jwt/jwt.strategy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/src/logger/logger.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/src/logger/logger.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/uploads/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/uploads/audio/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/uploads/documents/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/uploads/images/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-book-cdn/uploads/videos/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reminder/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reminder_preloader/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reminder_preloader/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../cars-app/components/LangSwitcher.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/app.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/nuxt.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/server/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traur/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2XrYIew097vmfgCbhFqZoBJJKHr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/user/Desktop/Проекты/rbmq",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fb34967-168e-44a4-8273-c103b0e147e5" name="Changes" comment="" />
+      <created>1699388587671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699388587671</updated>
+      <workItem from="1699388592570" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
